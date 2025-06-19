@@ -181,6 +181,9 @@
   .relative {
     position: relative;
   }
+  .static {
+    position: static;
+  }
   .right-4 {
     right: calc(var(--spacing) * 4);
   }
